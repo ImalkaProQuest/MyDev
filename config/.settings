@@ -1,0 +1,16 @@
+{
+    "projectName": "Imalka Dev",
+    "username": "imalka.fernando@proquestit.com.dev",
+    "id": "f83e48d0-d93e-11e6-8ad3-7b628176a8a8",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/imalkafernando/Documents/Code/Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
