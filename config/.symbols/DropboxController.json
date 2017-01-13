@@ -1,0 +1,242 @@
+{
+    "constructors": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 12,
+                "line": 6
+            },
+            "modifiers": [
+                "public"
+            ],
+            "name": "DropboxController",
+            "parameters": [],
+            "references": [],
+            "type": null
+        }
+    ],
+    "externalReferences": [],
+    "id": "01p2800000Eg8YSAAZ",
+    "innerClasses": [],
+    "interfaces": [],
+    "key": "01p2800000Eg8YSAAZ",
+    "methods": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 26,
+                "line": 16
+            },
+            "modifiers": [
+                "public"
+            ],
+            "name": "DropAuth",
+            "parameters": [],
+            "references": [],
+            "returnType": "PageReference",
+            "type": null
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 17,
+                "line": 23
+            },
+            "modifiers": [
+                "public"
+            ],
+            "name": "AccessToken",
+            "parameters": [],
+            "references": [],
+            "returnType": "void",
+            "type": null
+        }
+    ],
+    "name": "DropboxController",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 12,
+                "line": 4
+            },
+            "modifiers": [
+                "private"
+            ],
+            "name": "code",
+            "references": [],
+            "type": "String"
+        }
+    ],
+    "tableDeclaration": {
+        "annotations": [],
+        "location": {
+            "column": 14,
+            "line": 1
+        },
+        "modifiers": [
+            "public"
+        ],
+        "name": "DropboxController",
+        "references": [],
+        "type": "DropboxController"
+    },
+    "variables": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 23,
+                "line": 19
+            },
+            "modifiers": [],
+            "name": "pg",
+            "references": [],
+            "type": "PageReference"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 20,
+                "line": 25
+            },
+            "modifiers": [],
+            "name": "att",
+            "references": [],
+            "type": "Attachment"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 26
+            },
+            "modifiers": [],
+            "name": "token",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 8,
+                "line": 29
+            },
+            "modifiers": [],
+            "name": "accesstoken",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 21,
+                "line": 30
+            },
+            "modifiers": [],
+            "name": "r",
+            "references": [],
+            "type": "HttpRequest"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 37
+            },
+            "modifiers": [],
+            "name": "h1",
+            "references": [],
+            "type": "Http"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 22,
+                "line": 38
+            },
+            "modifiers": [],
+            "name": "res1",
+            "references": [],
+            "type": "HttpResponse"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 39
+            },
+            "modifiers": [],
+            "name": "resp1",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 29,
+                "line": 41
+            },
+            "modifiers": [],
+            "name": "m",
+            "references": [],
+            "type": "Map"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 42
+            },
+            "modifiers": [],
+            "name": "sPath",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 45
+            },
+            "modifiers": [],
+            "name": "shareToken",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 14,
+                "line": 52
+            },
+            "modifiers": [],
+            "name": "h2",
+            "references": [],
+            "type": "Http"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 22,
+                "line": 53
+            },
+            "modifiers": [],
+            "name": "res2",
+            "references": [],
+            "type": "HttpResponse"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 54
+            },
+            "modifiers": [],
+            "name": "resp2",
+            "references": [],
+            "type": "String"
+        }
+    ]
+}
